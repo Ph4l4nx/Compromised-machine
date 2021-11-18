@@ -12,3 +12,5 @@
 
 * List of all open named pipes in Windows: get-childitem \\.\pipe\
 
+* View cached DNS entries: ipconfig /displaydns
+
