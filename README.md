@@ -14,3 +14,7 @@
 
 * View cached DNS entries: ipconfig /displaydns
 
+* Get all connections: Get-NetTCPConnection
+
+
+
