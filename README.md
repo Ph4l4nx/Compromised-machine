@@ -16,5 +16,7 @@
 
 * Get all connections: Get-NetTCPConnection
 
+* View currently executing processes: Get-Process // to investigate further: Get-Process chrome | Select-Object Id, ProcessName, Path, Company, StartTime | Format-Table
+
 
 
