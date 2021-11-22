@@ -18,5 +18,9 @@
 
 * View currently executing processes: Get-Process // to investigate further: Get-Process chrome | Select-Object Id, ProcessName, Path, Company, StartTime | Format-Table
 
+* To obtain the execution-policy: Get-ExecutionPolicy 
+
+* To list all the users: Get-LocalUser
+
 
 
