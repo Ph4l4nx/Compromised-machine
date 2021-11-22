@@ -22,5 +22,7 @@
 
 * To list all the users: Get-LocalUser
 
+* In order to search magic numbers (4D 5A) in non-executable file extensions: Get-Content .\file –Encoding Byte | Format-Hex
+
 
 
