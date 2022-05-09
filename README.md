@@ -24,6 +24,8 @@
 
 * In order to search magic numbers (4D 5A) in non-executable file extensions: Get-Content .\file –Encoding Byte | Format-Hex
 
+* To detect shellcodes, we need to search for the following hex values: "8B EC".
+
 * Base64 (1024chars) content in a file: Get-Content .\file | Select-String '[A-Za-z0-9\/\+]{1024,}[=]{0,2}'
 
 
