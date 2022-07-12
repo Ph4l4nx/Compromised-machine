@@ -12,7 +12,7 @@
 
 * List all recently opened documents: openfiles /query (take a time)
 
-* List of all open named pipes in Windows: get-childitem \\.\pipe\
+* List of all open named pipes in Windows: get-childitem \\.\pipe\ or [System.IO.Directory]::EnumerateFiles('\\.\pipe\')
 
 * View cached DNS entries: ipconfig /displaydns
 
