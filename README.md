@@ -37,9 +37,9 @@
 
 # Linux Compromised-Machine
 
-ss -tpn
-htop | top
-pstree
-ps aux
+* ss -tpn
+* htop | top
+* pstree
+* ps aux
 
 
