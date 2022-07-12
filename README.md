@@ -1,4 +1,4 @@
-# Compromised-machine
+# Windows Compromised-machine
 
 * List all SW that starts automatically when the system boots: wmic startup list full
 
@@ -35,6 +35,11 @@
 * Base64 (1024chars) content in a file: Get-Content .\file | Select-String '[A-Za-z0-9\/\+]{1024,}[=]{0,2}'
 
 
+# Linux Compromised-Machine
 
+ss -tpn
+htop | top
+pstree
+ps aux
 
 
