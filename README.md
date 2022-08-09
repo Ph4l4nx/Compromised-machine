@@ -34,6 +34,10 @@
 
 * Base64 (1024chars) content in a file: Get-Content .\file | Select-String '[A-Za-z0-9\/\+]{1024,}[=]{0,2}'
 
+* https://github.com/last-byte/PersistenceSniper
+
+* Autoruns and process hacker cambiandoles el nombre
+
 
 # Linux Compromised-Machine
 
