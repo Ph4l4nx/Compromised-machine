@@ -38,6 +38,8 @@
 
 * Autoruns and process hacker cambiandoles el nombre
 
+* Para identificar de donde se ha descargado un fichero: more < file:Zone.Identifier
+
 
 # Linux Compromised-Machine
 
