@@ -43,7 +43,7 @@
 
 # Linux Compromised-Machine
 
-* ss -tpn
+* watch -n 0 ss -tpn
 * htop | top
 * pstree
 * ps aux
