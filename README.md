@@ -49,5 +49,6 @@
 * htop | top
 * pstree
 * ps aux
+* Interesting files: proxychains, cron, passwd, resolv.conf 
 
-
+Cheatsheet: https://www.security-hive.com/post/linux-forensics-the-complete-cheatsheet
