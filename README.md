@@ -32,6 +32,8 @@
 
 * To detect shellcodes, we need to search for the following hex values: "8B EC".
 
+* http://sandsprite.com/blogs/index.php?uid=7&pid=152 in order to search shellcodes in .dll or .exe files. Example: https://blog.nviso.eu/2022/04/06/analyzing-a-multilayer-maldoc-a-beginners-guide/
+
 * Base64 (1024chars) content in a file: Get-Content .\file | Select-String '[A-Za-z0-9\/\+]{1024,}[=]{0,2}'
 
 * https://github.com/last-byte/PersistenceSniper
