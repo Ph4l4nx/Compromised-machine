@@ -50,6 +50,7 @@
 * pstree
 * ps aux
 * lastlog
+* lsof -i | sudo lsof
 * Interesting files: proxychains, cron, passwd, resolv.conf, bashrc
 
 Cheatsheet: https://www.security-hive.com/post/linux-forensics-the-complete-cheatsheet
