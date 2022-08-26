@@ -52,6 +52,7 @@
 * lastlog
 * lsof -i | sudo lsof
 * netstat -putona
+* netstat -ab | findstr :3389
 * sudo iptables -L
 * Interesting files: proxychains, cron, passwd, resolv.conf, bashrc
 
