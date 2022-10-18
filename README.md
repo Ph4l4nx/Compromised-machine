@@ -45,6 +45,8 @@
 ------------------------------------------------------------------------------------------------------------------------
 
 * Check with BeaconHunter: https://github.com/3lp4tr0n/BeaconHunter. Ex: BeaconHunter.exe winhttp.dll <process id> -mthp
+  
+* https://github.com/thefLink/Hunt-Sleeping-Beacons
 
 
 # Linux Compromised-Machine
