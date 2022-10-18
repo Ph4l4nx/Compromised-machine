@@ -42,7 +42,9 @@
 
 * Para identificar de donde se ha descargado un fichero: more < file:Zone.Identifier
 
-* Check with BeaconHunter: https://github.com/3lp4tr0n/BeaconHunter
+------------------------------------------------------------------------------------------------------------------------
+
+* Check with BeaconHunter: https://github.com/3lp4tr0n/BeaconHunter. Ex: BeaconHunter.exe winhttp.dll <process id> -mthp
 
 
 # Linux Compromised-Machine
