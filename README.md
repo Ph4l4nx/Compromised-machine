@@ -44,7 +44,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 
-* Check with BeaconHunter: https://github.com/3lp4tr0n/BeaconHunter. Ex: BeaconHunter.exe winhttp.dll <process id> -mthp
+* Check with BeaconHunter: https://github.com/3lp4tr0n/BeaconHunter. Ex: BeaconHunter.exe winhttp.dll <process id> -mthp More info: https://www.mdsec.co.uk/2022/08/part-3-how-i-met-your-beacon-brute-ratel/
   
 * https://github.com/thefLink/Hunt-Sleeping-Beacons
 
