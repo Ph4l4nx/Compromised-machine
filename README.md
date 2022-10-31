@@ -42,6 +42,8 @@
 
 * Para identificar de donde se ha descargado un fichero: more < file:Zone.Identifier
 
+* Live memory analysis: https://github.com/ignacioj/WhacAMole
+
 ------------------------------------------------------------------------------------------------------------------------
 
 * Check with BeaconHunter: https://github.com/3lp4tr0n/BeaconHunter. Ex: BeaconHunter.exe winhttp.dll <process id> -mthp More info: https://www.mdsec.co.uk/2022/08/part-3-how-i-met-your-beacon-brute-ratel/
