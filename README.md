@@ -1,6 +1,6 @@
 # Windows Compromised-machine
 
-* List all SW that starts automatically when the system boots: wmic startup list full
+* List all SW that starts automatically when the system boots: wmic startup list full or wmic product get name,version
 
 * List all USB connected to the host: Get-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Enum\USBSTOR\*\*
 
