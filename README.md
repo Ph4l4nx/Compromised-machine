@@ -1,8 +1,8 @@
 # Windows Compromised-machine
 
   * [Table of Contents](#table-of-contents)                                                                                                                                                                                               
-      * [Information](#Information)
-      * [Persistence](#Persistence)
+      * [Information](#information)
+      * [Persistence](#persistence)
 
  ## Information
 
