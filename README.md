@@ -4,6 +4,8 @@
 
 * List all USB connected to the host: Get-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Enum\USBSTOR\*\*
 
+* List all the process: Get-Process
+
 * List all the executed commands in the system: Get-History 
 
 * All SW installed: reg query HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall /s | findstr "DisplayName" //// Get-CimInstance -ClassName Win32_Product or wmic product get name,version
@@ -26,7 +28,7 @@
 
 * Getting all the GP0'S: Get-GPO –all
 
-* Get-PSReadLineOption 
+* Get-PSReadLineOption > type ..\PowerShell\PSReadLine\ConsoleHost_history.txt
 
 * In order to search magic numbers (4D 5A) in non-executable file extensions: Get-Content .\file –Encoding Byte | Format-Hex
 
