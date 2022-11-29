@@ -10,6 +10,7 @@
       - [Linux](#linux)
         * [System Information](#system-information-1)
         * [Communications](#communications-1)
+        * [Others](#others)
 
 # Windows
 
@@ -100,8 +101,10 @@
 * watch -n 0 ss -tpn
 * lsof -i  
 * netstat -putona
-
 * sudo iptables -L
+
+ ## Others
+ 
 * Interesting files: proxychains, cron, passwd, resolv.conf, bashrc
 
 
