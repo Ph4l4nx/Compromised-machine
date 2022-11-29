@@ -8,6 +8,8 @@
 
 * List all the process: Get-Process
 
+* List all the scheduled tasks: Get-ScheduledTask
+
 * List all the executed commands in the system: Get-History 
 
 * All SW installed: reg query HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall /s | findstr "DisplayName" //// Get-CimInstance -ClassName Win32_Product or wmic product get name,version
