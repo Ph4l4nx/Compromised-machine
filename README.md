@@ -8,6 +8,7 @@
         * [Metadata](#metadata)
         * [SW](#sw)
       - [Linux](#linux)
+        * [System Information](#system-information)
 
 # Windows
 
@@ -82,6 +83,8 @@
 
 
 # Linux
+
+## System Information
 
 * watch -n 0 ss -tpn
 * htop | top
