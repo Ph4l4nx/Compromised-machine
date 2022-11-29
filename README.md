@@ -8,7 +8,8 @@
         * [Metadata](#metadata)
         * [SW](#sw)
       - [Linux](#linux)
-        * [System Information](#system-information)
+        * [System Information](#system-information-1)
+        * [Communications](#communications-1)
 
 # Windows
 
