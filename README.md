@@ -57,6 +57,8 @@
 
 * Get all connections: Get-NetTCPConnection && Get-NetUDPEndpoint
 
+* netstat -ab | findstr :3389
+
 ## Malware in the system
 
 * Hunt sleeping Beacons: https://github.com/thefLink/Hunt-Sleeping-Beacons
@@ -86,15 +88,19 @@
 # Linux
 
 ## System Information
-
-* watch -n 0 ss -tpn
-* htop | top
-* pstree
+ 
 * ps aux
 * lastlog
-* lsof -i | sudo lsof
+* htop | top
+* pstree 
+* lsof
+ 
+## Communications
+ 
+* watch -n 0 ss -tpn
+* lsof -i  
 * netstat -putona
-* netstat -ab | findstr :3389
+
 * sudo iptables -L
 * Interesting files: proxychains, cron, passwd, resolv.conf, bashrc
 
