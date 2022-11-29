@@ -72,7 +72,7 @@
 
 ## Metadata
 
-* Para identificar de donde se ha descargado un fichero: more < file:Zone.Identifier
+* File download source: more < file:Zone.Identifier
 
 
 # Linux
