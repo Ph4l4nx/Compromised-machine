@@ -1,10 +1,14 @@
 # Windows Compromised-machine
 
   * [Table of Contents](#table-of-contents)                                                                                                                                                                                               
-      * [Platforms to practice](#platforms-to-practice)
- ## Platforms to practice
+      * [Information](#Information)
+      * [Persistence](#Persistence)
+
+ ## Information
 
 * List all SW that starts automatically when the system boots: wmic startup list full 
+
+ ## Persistence
 
 * List all USB connected to the host: Get-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Enum\USBSTOR\*\*
 
