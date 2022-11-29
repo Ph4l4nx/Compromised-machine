@@ -3,7 +3,7 @@
         * [System Information](#system-information)
         * [Persistence](#persistence)
         * [Lateral Movement](#lateral-movement)
-        * [Communications for the browser](#communications-for-the-browser)
+        * [Communications](#communications)
         * [Malware in the system](#malware-in-the-system)
         * [Metadata](#metadata)
       - [Linux](#linux)
