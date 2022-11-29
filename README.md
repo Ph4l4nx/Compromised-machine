@@ -1,12 +1,11 @@
-# Windows Compromised-machine
-
-  * [Table of Contents](#table-of-contents)                                                                                                                                                                                               
-      * [System Information](#system-information)
-      * [Persistence](#persistence)
-      * [Lateral Movement](#lateral-movement)
-      * [Communications](#communications)
-      * [Malware in the system](#malware-in-the-system)
-      * [Metadata](#metadata)
+  * [Table of Contents](#table-of-contents)                                                                                                                                                                         
+      * [Windows Compromised machine](#windows-compromised-machine)                     
+      + [System Information](#system-information)
+      + [Persistence](#persistence)
+      + [Lateral Movement](#lateral-movement)
+      + [Communications](#communications)
+      + [Malware in the system](#malware-in-the-system)
+      + [Metadata](#metadata)
       * [Linux Compromised Machine](#linux-compromised-machine)
 
  ## System Information
