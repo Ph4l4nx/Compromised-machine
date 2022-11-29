@@ -14,9 +14,9 @@
 
 * List of all open named pipes in Windows: get-childitem \\.\pipe\ or [System.IO.Directory]::EnumerateFiles('\\.\pipe\')
 
-* View cached DNS entries: ipconfig /displaydns
+* View cached DNS entries: ipconfig /displaydns in Powershell: Get-DnsClientCache
 
-* Get all connections: Get-NetTCPConnection
+* Get all connections: Get-NetTCPConnection && Get-NetUDPEndpoint
 
 * View currently executing processes: Get-Process // to investigate further: Get-Process chrome | Select-Object Id, ProcessName, Path, Company, StartTime | Format-Table
 
