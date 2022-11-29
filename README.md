@@ -1,14 +1,14 @@
   * [Table of Contents](#table-of-contents)                                                                                                                                                                         
-      - [Windows Compromised machine](#windows-compromised-machine)                     
+      - [Windows](#windows)                     
         * [System Information](#system-information)
         * [Persistence](#persistence)
         * [Lateral Movement](#lateral-movement)
         * [Communications](#communications)
         * [Malware in the system](#malware-in-the-system)
         * [Metadata](#metadata)
-      - [Linux Compromised Machine](#linux-compromised-machine)
+      - [Linux](#linux)
 
-# Windows Compromised machine
+# Windows
 
  ## System Information
  
@@ -75,7 +75,7 @@
 * Para identificar de donde se ha descargado un fichero: more < file:Zone.Identifier
 
 
-# Linux Compromised Machine
+# Linux
 
 * watch -n 0 ss -tpn
 * htop | top
