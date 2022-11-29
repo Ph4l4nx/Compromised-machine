@@ -6,6 +6,7 @@
         * [Communications](#communications)
         * [Malware in the system](#malware-in-the-system)
         * [Metadata](#metadata)
+        * [SW](#sw)
       - [Linux](#linux)
 
 # Windows
@@ -42,8 +43,6 @@
 
 * List all the scheduled tasks: Get-ScheduledTask
 
-* Autoruns and process hacker changing their names
-
 * PersistenceSniper: https://github.com/last-byte/PersistenceSniper
 
  ## Lateral Movement
@@ -74,6 +73,12 @@
 
 * dir /r in order to get ADS from files
 * File download source: more < file:Zone.Identifier -> Zone.Identifier is an ADS attribute.
+
+## SW
+
+* Autoruns and process hacker changing their names
+
+* Ram-capturer: https://belkasoft.com/ram-capturer
 
 
 # Linux
