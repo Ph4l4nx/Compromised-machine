@@ -4,6 +4,8 @@
 
 * List all USB connected to the host: Get-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Enum\USBSTOR\*\*
 
+* List all the DISKS: Get-PhysicalDisk
+
 * List all the process: Get-Process
 
 * List all the executed commands in the system: Get-History 
