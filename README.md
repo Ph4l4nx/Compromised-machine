@@ -72,7 +72,8 @@
 
 ## Metadata
 
-* File download source: more < file:Zone.Identifier
+* dir /r in order to get ADS from files
+* File download source: more < file:Zone.Identifier -> Zone.Identifier is an ADS attribute.
 
 
 # Linux
