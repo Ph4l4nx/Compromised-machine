@@ -95,13 +95,13 @@
 * htop | top
 * pstree 
 * lsof
+* sudo iptables -L
  
 ## Communications
  
 * watch -n 0 ss -tpn
 * lsof -i  
 * netstat -putona
-* sudo iptables -L
 
  ## Others
  
