@@ -7,6 +7,7 @@
         * [Malware in the system](#malware-in-the-system)
         * [Metadata](#metadata)
         * [SW](#sw)
+        * [Lolbas](#lolbas)
       - [Linux](#linux)
         * [System Information](#system-information-1)
         * [Communications](#communications-1)
@@ -82,7 +83,12 @@
 * Autoruns and process hacker changing their names
 
 * Ram-capturer: https://belkasoft.com/ram-capturer
-
+ 
+ ## Lolbas
+ 
+ Important lolbas to be aware: Wmic.exe, Mshta.exe, Certutil.exe, Hh.exe, Cscript.exe, Regini.exe, Cmd.exe, Rundll32.exe, Schtasks.exe and Shell32.dll
+ 
+ Reference: https://lolbas-project.github.io/
 
 # Linux
 
