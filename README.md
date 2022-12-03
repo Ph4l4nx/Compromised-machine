@@ -100,6 +100,7 @@
 * pstree 
 * lsof
 * sudo iptables -L
+* Monitor linux processes: https://github.com/DominicBreuker/pspy
  
 ## Communications
  
