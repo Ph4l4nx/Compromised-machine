@@ -70,8 +70,6 @@
 
 ## Malware
 
-* Hunt sleeping Beacons: https://github.com/thefLink/Hunt-Sleeping-Beacons
-
 * In order to search magic numbers (4D 5A) in non-executable file extensions: Get-Content .\file –Encoding Byte | Format-Hex
 
 * http://sandsprite.com/blogs/index.php?uid=7&pid=152 in order to search shellcodes in .dll or .exe files. Example: https://blog.nviso.eu/2022/04/06/analyzing-a-multilayer-maldoc-a-beginners-guide/
