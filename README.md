@@ -56,6 +56,8 @@
 
 * PersistenceSniper: https://github.com/last-byte/PersistenceSniper
 
+* Hunt Sleeping Beacons: https://github.com/thefLink/Hunt-Sleeping-Beacons
+
  ## Lateral Movement
 
 * List of all open named pipes in Windows (SMB): get-childitem \\.\pipe\ or [System.IO.Directory]::EnumerateFiles('\\.\pipe\')
@@ -129,10 +131,6 @@ https://metadefender.opswat.com/?lang=en
 * PROCMON+PCAP: https://www.procdot.com/
 
 * Analyze APK's: https://github.com/quark-engine/quark-engine && https://github.com/mvt-project/mvt && https://github.com/pjlantz/droidbox
-
-* Hunt Sleeping Beacons: https://github.com/thefLink/Hunt-Sleeping-Beacons
-
-* Persistence Sniper: https://github.com/last-byte/PersistenceSniper
 
 * XORSearch: https://blog.didierstevens.com/programs/xorsearch/
 
