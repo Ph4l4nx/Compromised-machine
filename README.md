@@ -82,6 +82,8 @@
 
 * Autoruns and process hacker changing their names
 
+* Sysinspector: https://support.eset.com/es/que-es-eset-sysinspector
+
 * Ram-capturer: https://belkasoft.com/ram-capturer
  
  ## Lolbas
