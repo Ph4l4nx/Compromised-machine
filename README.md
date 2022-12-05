@@ -112,6 +112,8 @@
 
  ## Others
  
+* Triage: https://github.com/SekoiaLab/Fastir_Collector_Linux
+ 
 * Interesting files: proxychains, cron, passwd, resolv.conf, bashrc
 
 
