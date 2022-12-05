@@ -11,6 +11,7 @@
       - [Linux](#linux)
         * [System Information](#system-information-1)
         * [Communications](#communications-1)
+        * [Triage](#triage)
         * [Others](#others)
 
 # Windows
@@ -109,10 +110,12 @@
 * watch -n 0 ss -tpn
 * lsof -i  
 * netstat -putona
+ 
+ ## Triage
+ 
+ * Triage: https://github.com/SekoiaLab/Fastir_Collector_Linux
 
  ## Others
- 
-* Triage: https://github.com/SekoiaLab/Fastir_Collector_Linux
  
 * Interesting files: proxychains, cron, passwd, resolv.conf, bashrc
 
