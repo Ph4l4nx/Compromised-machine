@@ -96,6 +96,7 @@
  
  ## Triage
  
+ WinTriage: https://www.securizame.com/wintriage-la-herramienta-de-triage-para-el-dfirer-en-windows/
  
 
 # Linux
