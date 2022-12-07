@@ -113,7 +113,9 @@
  
  ## Triage
  
- * Triage: https://github.com/SekoiaLab/Fastir_Collector_Linux
+ * FastIR: https://github.com/SekoiaLab/Fastir_Collector_Linux
+ 
+ * Pylirt: https://github.com/anil-yelken/pylirt
 
  ## Others
  
