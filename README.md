@@ -98,6 +98,8 @@
  
  WinTriage: https://www.securizame.com/wintriage-la-herramienta-de-triage-para-el-dfirer-en-windows/
  
+ KAPE: https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape#form716
+ 
 
 # Linux
 
