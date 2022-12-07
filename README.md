@@ -8,10 +8,11 @@
             * [Metadata](#metadata)
             * [SW](#sw)
             * [Lolbas](#lolbas)
+        * [Triage](#triage)
       - [Linux](#linux)
         * [System Information](#system-information-1)
         * [Communications](#communications-1)
-        * [Triage](#triage)
+        * [Triage](#triage-1)
         * [Others](#others)
 
 # Windows
@@ -74,12 +75,12 @@
 
 * Check with BeaconHunter: https://github.com/3lp4tr0n/BeaconHunter. Ex: BeaconHunter.exe winhttp.dll <process id> -mthp More info: https://www.mdsec.co.uk/2022/08/part-3-how-i-met-your-beacon-brute-ratel/
 
-## Metadata
+### Metadata
 
 * dir /r in order to get ADS from files
 * File download source: more < file:Zone.Identifier -> Zone.Identifier is an ADS attribute.
 
-## SW
+### SW
 
 * Autoruns and process hacker changing their names
 
@@ -87,11 +88,13 @@
 
 * Ram-capturer: https://belkasoft.com/ram-capturer
  
- ## Lolbas
+### Lolbas
  
  Important lolbas to be aware: Wmic.exe, Mshta.exe, Certutil.exe, Hh.exe, Cscript.exe, Regini.exe, Cmd.exe, Rundll32.exe, Schtasks.exe and Shell32.dll
  
  Reference: https://lolbas-project.github.io/
+ 
+ ## Triage
 
 # Linux
 
