@@ -8,6 +8,7 @@
             * [Metadata](#metadata)
             * [SW](#sw)
             * [Lolbas](#lolbas)
+        * [Hooking](#hooking)
         * [Triage](#triage)
         * [Blogs](#blogs)
       - [Linux](#linux)
@@ -97,6 +98,10 @@
  Important lolbas to be aware: Wmic.exe, Mshta.exe, Certutil.exe, Hh.exe, Cscript.exe, Regini.exe, Cmd.exe, Rundll32.exe, Schtasks.exe and Shell32.dll
  
  Reference: https://lolbas-project.github.io/
+
+## Hooking
+ 
+ tasklist /m EasyHook32.dll;tasklist /m EasyHook64.dll;tasklist /m EasyLoad32.dll;tasklist /m EasyLoad64.dll;
  
  ## Triage
  
