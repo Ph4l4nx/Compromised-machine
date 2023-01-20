@@ -60,6 +60,8 @@
 
 * List of all open named pipes in Windows (SMB): get-childitem \\.\pipe\ or [System.IO.Directory]::EnumerateFiles('\\.\pipe\')
 
+* Lateral movement analyzer: https://github.com/silverfort-open-source/latma && https://www.kitploit.com/2023/01/latma-lateral-movement-analyzer-tool.html?m=1
+
 ## Communications
 
 * View cached DNS entries: ipconfig /displaydns in Powershell: Get-DnsClientCache
