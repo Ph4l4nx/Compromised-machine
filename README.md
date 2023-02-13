@@ -26,7 +26,9 @@
 
 * List all the executed commands in the system: Get-History 
 
-* net user & net user <username>
+* From cmd: net user & net user <username>
+ 
+* From cmd: lusrmgr -> Local users and groups
 
 * All SW installed: reg query HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall /s | findstr "DisplayName" //// Get-CimInstance -ClassName Win32_Product or wmic product get name,version
  
