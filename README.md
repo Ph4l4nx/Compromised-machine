@@ -26,6 +26,8 @@
 
 * List all the executed commands in the system: Get-History 
 
+* net user & net user <username>
+
 * All SW installed: reg query HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall /s | findstr "DisplayName" //// Get-CimInstance -ClassName Win32_Product or wmic product get name,version
  
 * List all USB connected to the host: 1) Get-ItemProperty -ea 0 hklm:\system\currentcontrolset\enum\usbstor\*\* | select FriendlyName,PSChildName 
