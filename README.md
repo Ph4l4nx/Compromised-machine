@@ -156,6 +156,6 @@
 
  ## Others
  
-* Interesting files: /etc/proxychains, /etc/crontab, /etc/passwd, /etc/resolv.conf & /etc/network/interfaces
+* Interesting files: /etc/proxychains, /etc/crontab, /etc/passwd, /etc/sudoers, /etc/shadow, /etc/resolv.conf & /etc/network/interfaces
 
 
