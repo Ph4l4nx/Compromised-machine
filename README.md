@@ -65,6 +65,8 @@
 
 * List of all open named pipes in Windows (SMB): get-childitem \\.\pipe\ or [System.IO.Directory]::EnumerateFiles('\\.\pipe\')
 
+*  Sysinternal tool: https://learn.microsoft.com/en-us/sysinternals/downloads/handle E.g: handle.exe chrome
+
 * Lateral movement analyzer: https://github.com/silverfort-open-source/latma && https://www.kitploit.com/2023/01/latma-lateral-movement-analyzer-tool.html?m=1
 
 ## Communications
