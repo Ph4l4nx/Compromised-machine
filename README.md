@@ -138,9 +138,11 @@
  
  ## Persistence
  
- systemctl
+ systemctl ->  By service
  
- cat bashrc & zshrc
+ cat ~/.bashrc & ~/.zshrc -> By configuration file/action
+ 
+ crontab -l -> Take care of the user context -> By scheduled task
  
  ## Triage
  
