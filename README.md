@@ -14,6 +14,7 @@
       - [Linux](#linux)
         * [System Information](#system-information-1)
         * [Communications](#communications-1)
+        * [Persistence](#persistence-1)
         * [Triage](#triage-1)
         * [Others](#others)
 
@@ -134,6 +135,12 @@
 * watch -n 0 ss -tpn
 * lsof -i  
 * netstat -putona
+ 
+ ## Persistence
+ 
+ systemctl
+ 
+ cat bashrc & zshrc
  
  ## Triage
  
