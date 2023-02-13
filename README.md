@@ -152,6 +152,6 @@
 
  ## Others
  
-* Interesting files: proxychains, cron, passwd, resolv.conf.
+* Interesting files: /etc/proxychains, /etc/crontab, /etc/passwd, /etc/resolv.conf & /etc/network/interfaces
 
 
