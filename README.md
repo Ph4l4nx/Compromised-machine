@@ -26,7 +26,7 @@
 
 * List all the executed commands in the system: Get-History 
 
-* From cmd: net user & net user "<username>"
+* From cmd: net user & net user 'username'
  
 * From cmd: lusrmgr -> Local users and groups
 
