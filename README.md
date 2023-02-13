@@ -152,6 +152,6 @@
 
  ## Others
  
-* Interesting files: proxychains, cron, passwd, resolv.conf, bashrc & zshrc.
+* Interesting files: proxychains, cron, passwd, resolv.conf.
 
 
