@@ -26,9 +26,7 @@
 
 * List all the executed commands in the system: Get-History 
 
-* From cmd: net user & net user 'username'
- 
-* From cmd: lusrmgr -> Local users and groups
+* Get the last 100 events from the application log: Get-EventLog -LogName Application -Newest 100
 
 * All SW installed: reg query HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall /s | findstr "DisplayName" //// Get-CimInstance -ClassName Win32_Product or wmic product get name,version
  
@@ -50,6 +48,10 @@
 * FW configuration: netsh advfirewall show global
 
 * List all recently opened documents: openfiles /query (take a time)
+
+* From cmd: net user & net user 'username'
+ 
+* From cmd: lusrmgr -> Local users and groups
 
  ## Persistence
  
