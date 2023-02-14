@@ -28,6 +28,8 @@
 
 * Get the last 100 events from the application log: Get-EventLog -LogName Application -Newest 100
 
+* Get the security log events generated in the last 24 hours:Get-EventLog -LogName Security -After (Get-Date).AddDays(-1)
+
 * All SW installed: reg query HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall /s | findstr "DisplayName" //// Get-CimInstance -ClassName Win32_Product or wmic product get name,version
  
 * List all USB connected to the host: 1) Get-ItemProperty -ea 0 hklm:\system\currentcontrolset\enum\usbstor\*\* | select FriendlyName,PSChildName 
