@@ -10,6 +10,7 @@
             * [Lolbas](#lolbas)
         * [Hooking](#hooking)
         * [Triage](#triage)
+        * [Memory Analysis](#memory-analysis)
         * [Blogs](#blogs)
       - [Linux](#linux)
         * [System Information](#system-information-1)
@@ -127,6 +128,10 @@
  WinTriage: https://www.securizame.com/wintriage-la-herramienta-de-triage-para-el-dfirer-en-windows/
  
  KAPE: https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape#form716
+ 
+ ## Memory Analysis
+ 
+ Autopsy: https://www.autopsy.com/download/
 
  ## Blogs
  
