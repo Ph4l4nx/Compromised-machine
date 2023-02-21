@@ -120,7 +120,7 @@
  
  ## Triage
  
- RAM: DumpIt then volatility
+ RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) then volatility
  
  FTK imager
  
