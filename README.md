@@ -121,7 +121,7 @@
  
  ## Triage
  
- RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) then volatility
+ RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) 
  
  FTK imager
  
@@ -132,6 +132,8 @@
  ## Memory Analysis
  
  Autopsy: https://www.autopsy.com/download/
+ 
+ Volatility
 
  ## Blogs
  
