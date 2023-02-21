@@ -120,6 +120,8 @@
  
  ## Triage
  
+ RAM: DumpIt then volatility
+ 
  FTK imager
  
  WinTriage: https://www.securizame.com/wintriage-la-herramienta-de-triage-para-el-dfirer-en-windows/
