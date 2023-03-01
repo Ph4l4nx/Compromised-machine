@@ -121,7 +121,7 @@
  
  ## Triage
  
- RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) 
+ RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) & https://github.com/Velocidex/WinPmem
  
  FTK imager
  
