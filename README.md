@@ -10,7 +10,7 @@
             * [Lolbas](#lolbas)
         * [Hooking](#hooking)
         * [Triage](#triage)
-        * [Memory Analysis](#memory-analysis)
+        * [Analysis](#analysis)
         * [Blogs](#blogs)
       - [Linux](#linux)
         * [System Information](#system-information-1)
@@ -129,7 +129,7 @@
  
  KAPE: https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape#form716
  
- ## Memory Analysis
+ ## Analysis
  
  Autopsy: https://www.autopsy.com/download/
  
@@ -168,6 +168,8 @@
  ## Triage
  
  * FastIR: https://github.com/SekoiaLab/Fastir_Collector_Linux
+ 
+ * LIME: https://fwhibbit.es/volcado-de-memoria-ram-en-linux-lime
  
  * Remote triage. Pylirt: https://github.com/anil-yelken/pylirt
 
