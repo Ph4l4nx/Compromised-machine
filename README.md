@@ -149,6 +149,7 @@
 * pstree & ps -auxwf
 * lsof
 * sudo iptables -L
+* dpkg -l 
 * Monitor linux processes: https://github.com/DominicBreuker/pspy
 * Auditd
 * Sysdig
