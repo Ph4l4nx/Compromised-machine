@@ -18,6 +18,7 @@
         * [Persistence](#persistence-1)
         * [Triage](#triage-1)
         * [Others](#others)
+        * [Blogs](#blogs-1)
 
 # Windows
 
@@ -180,5 +181,7 @@
  
 * Interesting files: /etc/proxychains, /etc/crontab, /etc/passwd, /etc/sudoers, /etc/shadow, /etc/resolv.conf, /etc/network/interfaces &  ~/.ssh/config
 
+## Blogs
 
+* https://pberba.github.io/security/
 
