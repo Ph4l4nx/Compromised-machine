@@ -18,6 +18,7 @@
         * [Persistence](#persistence-1)
         * [Triage](#triage-1)
         * [Others](#others)
+        * [Logs](#logs)
         * [Blogs](#blogs-1)
 
 # Windows
@@ -180,6 +181,10 @@
  ## Others
  
 * Interesting files: /etc/proxychains, /etc/crontab, /etc/passwd, /etc/sudoers, /etc/shadow, /etc/resolv.conf, /etc/network/interfaces &  ~/.ssh/config
+
+## Logs
+
+/var/log/syslog, /var/log/auth.log, /var/log/kern.log, /var/log/dmesg & /var/log/messages.
 
 ## Blogs
 
