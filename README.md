@@ -181,6 +181,16 @@
  ## Others
  
 * Interesting files: /etc/proxychains, /etc/crontab, /etc/passwd, /etc/sudoers, /etc/shadow, /etc/resolv.conf, /etc/network/interfaces &  ~/.ssh/config
+ 
+* readelf file.elf or file.so -h
+ 
+* readelf file.elf or file.so -n
+ 
+ * cat /proc/pid/maps
+ 
+ * objdump -s -j .rodata file.so
+ 
+ * objdump file.so
 
 ## Logs
 
