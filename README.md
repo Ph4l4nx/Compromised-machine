@@ -193,6 +193,8 @@
  * objdump file.so
 
 ## Logs
+ 
+ * dmesg -> kernel information logs
 
 /var/log/syslog, /var/log/auth.log, /var/log/kern.log, /var/log/dmesg & /var/log/messages.
 
