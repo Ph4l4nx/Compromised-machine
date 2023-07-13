@@ -107,6 +107,8 @@
 
 * Autoruns and process hacker changing their names
 
+* Process Explorer -> Options -> Check Virustotal.com
+
 * Sysinspector: https://support.eset.com/es/que-es-eset-sysinspector
 
 * Ram-capturer: https://belkasoft.com/ram-capturer
@@ -122,6 +124,8 @@
  tasklist /m EasyHook32.dll;tasklist /m EasyHook64.dll;tasklist /m EasyLoad32.dll;tasklist /m EasyLoad64.dll;
  
  ## Triage
+
+ Fast triage: Process Explorer -> Options -> Check Virustotal.com
  
  RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) & https://github.com/Velocidex/WinPmem
  
