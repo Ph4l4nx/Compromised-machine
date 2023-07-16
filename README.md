@@ -112,6 +112,8 @@
 * Sysinspector: https://support.eset.com/es/que-es-eset-sysinspector
 
 * Ram-capturer: https://belkasoft.com/ram-capturer
+
+* Pe-sieve: https://github.com/hasherezade/pe-sieve/releases
  
 ### Lolbas
  
