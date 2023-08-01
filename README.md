@@ -20,7 +20,7 @@
         * [Others](#others)
         * [Logs](#logs)
         * [Blogs](#blogs-1)
-       - [Android](#android)
+      - [Android](#android)
         * [Triage](#triage-2)
          
 # Windows
