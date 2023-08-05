@@ -194,11 +194,13 @@
  
 * readelf file.elf or file.so -n
  
- * cat /proc/pid/maps
+* cat /proc/pid/maps
  
- * objdump -s -j .rodata file.so
+* objdump -s -j .rodata file.so
  
- * objdump file.so
+* objdump file.so
+
+* strace -f .elf file
 
 ## Logs
  
