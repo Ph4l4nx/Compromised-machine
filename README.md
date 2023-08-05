@@ -202,6 +202,8 @@
 
 * strace -f .elf file
 
+* strace -f -o strace_out.txt .elf file
+
 ## Logs
  
  * dmesg -> kernel information logs
