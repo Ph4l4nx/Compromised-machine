@@ -130,6 +130,8 @@
  ## Triage
 
  Fast triage: Process Explorer -> Options -> Check Virustotal.com
+
+ Malware in memory: https://github.com/JPCERTCC/YAMA
  
  RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) & https://github.com/Velocidex/WinPmem
  
