@@ -135,7 +135,7 @@
  
 * RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) & https://github.com/Velocidex/WinPmem
  
- FTK imager
+* FTK imager
  
 * WinTriage: https://www.securizame.com/wintriage-la-herramienta-de-triage-para-el-dfirer-en-windows/
  
@@ -176,11 +176,11 @@
  
  ## Persistence
  
- * systemctl ->  By service
+* systemctl ->  By service
  
- * cat ~/.bashrc & ~/.zshrc -> By configuration file/action
+* cat ~/.bashrc & ~/.zshrc -> By configuration file/action
  
- * crontab -l -> Take care of the user context -> By scheduled task
+* crontab -l -> Take care of the user context -> By scheduled task
  
  ## Triage
  
