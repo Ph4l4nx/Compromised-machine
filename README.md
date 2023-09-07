@@ -150,6 +150,7 @@
  ## Blogs
  
 * Process Explorer Sysinternals: https://nasbench.medium.com/hunting-malware-with-windows-sysinternals-process-explorer-2baec974bec9
+  
 * https://www.jaiminton.com/cheatsheet/DFIR/#
  
 # Linux
@@ -175,11 +176,11 @@
  
  ## Persistence
  
- systemctl ->  By service
+ * systemctl ->  By service
  
- cat ~/.bashrc & ~/.zshrc -> By configuration file/action
+ * cat ~/.bashrc & ~/.zshrc -> By configuration file/action
  
- crontab -l -> Take care of the user context -> By scheduled task
+ * crontab -l -> Take care of the user context -> By scheduled task
  
  ## Triage
  
