@@ -119,38 +119,38 @@
  
 ### Lolbins:
  
- Important lolbas to be aware: Wmic.exe, Mshta.exe, Certutil.exe, Hh.exe, Cscript.exe, Regini.exe, Cmd.exe, Rundll32.exe, Schtasks.exe and Shell32.dll
+* Important lolbas to be aware: Wmic.exe, Mshta.exe, Certutil.exe, Hh.exe, Cscript.exe, Regini.exe, Cmd.exe, Rundll32.exe, Schtasks.exe and Shell32.dll
  
- Reference: https://lolbas-project.github.io/
+* Reference: https://lolbas-project.github.io/
 
 ## Hooking
  
- tasklist /m EasyHook32.dll;tasklist /m EasyHook64.dll;tasklist /m EasyLoad32.dll;tasklist /m EasyLoad64.dll;
+* tasklist /m EasyHook32.dll;tasklist /m EasyHook64.dll;tasklist /m EasyLoad32.dll;tasklist /m EasyLoad64.dll;
  
  ## Triage
 
- Fast triage: Process Explorer -> Options -> Check Virustotal.com
+* Fast triage: Process Explorer -> Options -> Check Virustotal.com
 
- Malware in memory: https://github.com/JPCERTCC/YAMA
+* Malware in memory: https://github.com/JPCERTCC/YAMA
  
- RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) & https://github.com/Velocidex/WinPmem
+* RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) & https://github.com/Velocidex/WinPmem
  
  FTK imager
  
- WinTriage: https://www.securizame.com/wintriage-la-herramienta-de-triage-para-el-dfirer-en-windows/
+* WinTriage: https://www.securizame.com/wintriage-la-herramienta-de-triage-para-el-dfirer-en-windows/
  
- KAPE: https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape#form716
+* KAPE: https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape#form716
  
  ## Analysis
  
- Autopsy: https://www.autopsy.com/download/
+* Autopsy: https://www.autopsy.com/download/
  
  Volatility
 
  ## Blogs
  
- Process Explorer Ssysinternals: https://nasbench.medium.com/hunting-malware-with-windows-sysinternals-process-explorer-2baec974bec9
- https://www.jaiminton.com/cheatsheet/DFIR/#
+* Process Explorer Sysinternals: https://nasbench.medium.com/hunting-malware-with-windows-sysinternals-process-explorer-2baec974bec9
+* https://www.jaiminton.com/cheatsheet/DFIR/#
  
 # Linux
 
