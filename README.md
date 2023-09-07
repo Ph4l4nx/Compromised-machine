@@ -117,7 +117,7 @@
 
 * Pe-sieve: https://github.com/hasherezade/pe-sieve/releases
  
-### Lolbas
+### Lolbins:
  
  Important lolbas to be aware: Wmic.exe, Mshta.exe, Certutil.exe, Hh.exe, Cscript.exe, Regini.exe, Cmd.exe, Rundll32.exe, Schtasks.exe and Shell32.dll
  
@@ -149,6 +149,7 @@
 
  ## Blogs
  
+ Process Explorer Ssysinternals: https://nasbench.medium.com/hunting-malware-with-windows-sysinternals-process-explorer-2baec974bec9
  https://www.jaiminton.com/cheatsheet/DFIR/#
  
 # Linux
