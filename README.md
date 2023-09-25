@@ -191,7 +191,7 @@
  
  * Remote triage. Pylirt: https://github.com/anil-yelken/pylirt
 
- ## Analysis
+## Analysis
  
 * Interesting files: /etc/proxychains, /etc/crontab, /etc/passwd, /etc/sudoers, /etc/shadow, /etc/resolv.conf, /etc/network/interfaces &  ~/.ssh/config
  
