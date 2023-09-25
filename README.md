@@ -208,6 +208,8 @@
 
 * strace -f -o strace_out.txt .elf file
 
+* Memory injections: https://github.com/arget13/DDexec
+
 ## Logs
  
  * dmesg -> kernel information logs
