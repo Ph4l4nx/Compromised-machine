@@ -17,7 +17,8 @@
         * [Communications](#communications-1)
         * [Persistence](#persistence-1)
         * [Triage](#triage-1)
-        * [Others](#others)
+        * [Analysis](#analysis)
+        * [Memory](#memory)
         * [Logs](#logs)
         * [Blogs](#blogs-1)
       - [Android](#android)
@@ -190,7 +191,7 @@
  
  * Remote triage. Pylirt: https://github.com/anil-yelken/pylirt
 
- ## Others
+ ## Analysis
  
 * Interesting files: /etc/proxychains, /etc/crontab, /etc/passwd, /etc/sudoers, /etc/shadow, /etc/resolv.conf, /etc/network/interfaces &  ~/.ssh/config
  
@@ -207,6 +208,10 @@
 * strace -f .elf file
 
 * strace -f -o strace_out.txt .elf file
+
+  ## Memory
+  
+* https://github.com/nnsee/fileless-elf-exec
 
 * Memory injections: https://github.com/arget13/DDexec
 
