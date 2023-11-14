@@ -30,7 +30,9 @@
  
 * View currently executing processes: Get-Process // to investigate further: Get-Process chrome | Select-Object Id, ProcessName, Path, Company, StartTime | Format-Table
 
-* List all the executed commands in the system: Get-History 
+* List all the executed commands in the system: Get-History
+
+* This command returns the list of past malware detections for the local computer: Get-MpThreatDetection
 
 * Get the last 100 events from the application log: Get-EventLog -LogName Application -Newest 100
 
