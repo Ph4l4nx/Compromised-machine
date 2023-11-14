@@ -34,6 +34,8 @@
 
 * This command returns the list of past malware detections for the local computer: Get-MpThreatDetection
 
+* List preferences and exclusions of local computer: Get-MpPreference
+
 * Get the last 100 events from the application log: Get-EventLog -LogName Application -Newest 100
 
 * Get the security log events generated in the last 24 hours:Get-EventLog -LogName Security -After (Get-Date).AddDays(-1)
