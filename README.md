@@ -85,6 +85,8 @@
 
 * Lateral movement analyzer: https://github.com/silverfort-open-source/latma && https://www.kitploit.com/2023/01/latma-lateral-movement-analyzer-tool.html?m=1
 
+* Common Named Pipes on C2's: https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries/blob/master/Command%20and%20Control/C2-NamedPipe.md
+
 ## Communications
 
 * View cached DNS entries: ipconfig /displaydns in Powershell: Get-DnsClientCache
