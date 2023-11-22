@@ -97,7 +97,9 @@
 
 * Get-VpnConnection
 
-## 
+## Malware
+
+Moneta: Moneta64.exe -m ioc -P 5636 https://github.com/forrest-orr/moneta
 
 * Cobalt Strike Beacons Detection: https://github.com/BorjaMerino/Cobaltstrike-Detection
 
