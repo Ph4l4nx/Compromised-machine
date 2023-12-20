@@ -77,6 +77,8 @@
 
 * Hunt Sleeping Beacons: https://github.com/thefLink/Hunt-Sleeping-Beacons
 
+* https://persistence-info.github.io/
+
  ## Lateral Movement
 
 * List of all open named pipes in Windows (SMB): get-childitem \\.\pipe\ or [System.IO.Directory]::EnumerateFiles('\\.\pipe\') or [System.IO.Directory]::GetFiles("\\.\pipe") or ls \\.\pipe\
