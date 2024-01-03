@@ -115,8 +115,10 @@
 
 ### Metadata
 
-* dir /r in order to get ADS from files
+* dir /r in cmd in order to get ADS from files
 * File download source: more < file:Zone.Identifier -> Zone.Identifier is an ADS attribute.
+* Get-Item -LiteralPath 'C:\Users\xxx\Downloads\pepito.txt' -Stream 'Zone.Identifier' | Get-Content
+* gc .\test.txt -Stream Zone.Identifier
 
 ### SW
 
