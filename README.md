@@ -223,7 +223,7 @@
 
 * strace -f -o strace_out.txt .elf file
 
-* ldd <file>
+* ldd file
 
  ## Memory
   
