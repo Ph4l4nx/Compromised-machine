@@ -223,6 +223,8 @@
 
 * strace -f -o strace_out.txt .elf file
 
+* ldd <file>
+
  ## Memory
   
 * https://github.com/nnsee/fileless-elf-exec
