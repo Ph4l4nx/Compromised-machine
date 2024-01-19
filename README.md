@@ -182,6 +182,7 @@
 * Monitor linux processes: https://github.com/DominicBreuker/pspy
 * Auditd
 * Sysdig
+* last monitor last connections
  
 ## Communications
  
