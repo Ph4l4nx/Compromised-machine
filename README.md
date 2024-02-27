@@ -173,12 +173,14 @@
 ## System Information
  
 * ps aux
+* arp -a
 * lastlog
 * htop | top
 * pstree & ps -auxwf
 * lsof
 * sudo iptables -L
-* dpkg -l 
+* dpkg -l
+* service --status-all
 * Monitor linux processes: https://github.com/DominicBreuker/pspy
 * Auditd
 * Sysdig
