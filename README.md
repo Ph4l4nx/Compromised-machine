@@ -181,6 +181,7 @@
 * sudo iptables -L
 * dpkg -l
 * service --status-all
+* sudo systemctl list-units --type=service --state=running --no-legend | awk '{print $1}' | while read -r service; do echo -n "$service: "; ps -p $(systemctl show -p MainPID $service --value) -o user= ; done
 * Monitor linux processes: https://github.com/DominicBreuker/pspy
 * Auditd
 * Sysdig
