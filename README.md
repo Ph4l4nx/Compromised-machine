@@ -32,6 +32,8 @@
 
 * List all the executed commands in the system: Get-History
 
+* Get-ScheduledTask
+
 * This command returns the list of past malware detections for the local computer: Get-MpThreatDetection
 
 * List preferences and exclusions of local computer: Get-MpPreference
