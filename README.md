@@ -150,7 +150,7 @@
 
 * Malware in memory: https://github.com/JPCERTCC/YAMA
  
-* RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) & https://github.com/Velocidex/WinPmem
+* RAM: DumpIt (https://www.toolwar.com/2014/01/dumpit-memory-dump-tools.html) & https://github.com/Velocidex/WinPmem && https://drive.google.com/file/d/1sMgA8wa9c3kVDkcQgqmvxiXw7RpYLSjS/view
  
 * FTK imager
  
