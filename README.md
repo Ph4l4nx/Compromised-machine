@@ -23,6 +23,7 @@
         * [Blogs](#blogs-1)
       - [Android](#android)
         * [Triage](#triage-2)
+      - [General](#general)
          
 # Windows
 
@@ -251,5 +252,9 @@
 
 ## Triage
 
-* PcapDroid: https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture&hl=es_419&gl=US 
+* PcapDroid: https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture&hl=es_419&gl=US
+
+# General
+
+* Loki - Simple IOC and YARA Scanner: https://github.com/Neo23x0/Loki
 
