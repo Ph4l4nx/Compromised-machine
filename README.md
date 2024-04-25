@@ -84,7 +84,7 @@
 
  ## Lateral Movement
 
-* List of all open named pipes in Windows (SMB): get-childitem \\.\pipe\ or [System.IO.Directory]::EnumerateFiles('\\.\pipe\') or [System.IO.Directory]::GetFiles("\\.\pipe") or ls \\.\pipe\
+* List of all open named pipes in Windows (SMB): Get-ChildItem \\.\pipe\ or [System.IO.Directory]::EnumerateFiles('\\.\pipe\') or [System.IO.Directory]::GetFiles("\\.\pipe") or ls \\.\pipe\
 
 *  Sysinternal tool: https://learn.microsoft.com/en-us/sysinternals/downloads/handle E.g: handle.exe chrome
 
